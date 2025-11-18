@@ -31,16 +31,16 @@ public class SoftwarearenGarapenaEskakizunOperazionalakProgramaInformatikoa {
         System.out.println("Esakakizun operazionalak dira , baliabide batzuk beahr direnak lan egiteko");
 
         /*
-         * Hemen programa informatikoa software eta hardware azaltzen ditut.
+         * Hemen programa informatikoa, software eta hardware azaltzen ditut.
          * 
          */
         System.out.println(koloreak.PURPLE+"Programa informatikoa, software, hardware..."+koloreak.RESET);
         System.out.println(koloreak.GREEN+"\n Zer da?"+koloreak.RESET);
 
         System.out.println(
-                "\n Software eta hardwarea dira bizitza ematen diotenak ordenagailu bat, hardware da adibidez disko gogorra, pantaila, gauz fisikoak dira eta software dira driverrak, ram bezalakoak.");
+                "\n Software eta hardwarea dira bizitza ematen diotenak ordenagailu bat,\nhardware da adibidez disko gogorra, pantaila, gauz fisikoak dira eta software dira driverrak, ram bezalakoak.");
         System.out.println(
-                "\nPrograma informatiko bat, adibidez java bat html web bat, kodea bidez egina daude, lehen codea 0101 bezalakoak ziren binarioa erabiltzen zela eta orain print bezalako bariableak erabiltzen dira, \nbariable honen atzean atzean binarioa dago soilik eta orain ulergarriagoa da eta errezagoa.");
+                "\nPrograma informatiko bat, adibidez java bat html web bat, kodea bidez egina daude, \nlehen codea 0101 bezalakoak ziren binarioa erabiltzen zela eta orain print bezalako bariableak erabiltzen dira, \nbariable honen atzean atzean binarioa dago soilik eta orain ulergarriagoa da eta errezagoa.");
 
     }
 }
