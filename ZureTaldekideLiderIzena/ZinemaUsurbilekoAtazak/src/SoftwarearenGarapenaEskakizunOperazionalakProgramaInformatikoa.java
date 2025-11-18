@@ -20,7 +20,7 @@ public class SoftwarearenGarapenaEskakizunOperazionalakProgramaInformatikoa {
         System.out.println("Eskakizun operazionalak");
         System.out.println("\n Zer dira?");
         
-
+System.out.println("Esakakizun operazionalak dira , baliabide batzuk beahr direnak lan egiteko");
 
 
 

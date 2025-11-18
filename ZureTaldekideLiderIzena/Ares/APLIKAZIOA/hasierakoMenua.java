@@ -20,7 +20,7 @@ public class hasierakoMenua {
     /**
      * Menua kargatzen dugu
      */
-    private void kargatuhasierakoMenuak() {
+    public void kargatuhasierakoMenuak() {
         hasierakoMenua = new ArrayList<>();
         hasierakoMenua.add("Asteko egunak");
         hasierakoMenua.add("Informazio orokorra");
@@ -95,4 +95,5 @@ public class hasierakoMenua {
             System.out.println((i + 1) + ". " + hasierakoMenua.get(i));
         }
     }
+
 }
