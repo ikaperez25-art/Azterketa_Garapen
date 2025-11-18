@@ -1,5 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Kaixo");
+        System.out.println("Eskakizun operazionalak");
+        System.out.println("\n Zer dira?");
+
     }
 }
