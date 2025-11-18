@@ -1,7 +1,7 @@
 /**
  * File hau aplikazio prinzipala da
  */
-package APLIKAZIOA;
+
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.HashMap;

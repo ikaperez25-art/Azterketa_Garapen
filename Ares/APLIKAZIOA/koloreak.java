@@ -1,4 +1,4 @@
-package APLIKAZIOA;
+
 
 /**
  * Koloreak gordetzeko klasea

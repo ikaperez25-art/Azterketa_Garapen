@@ -1,4 +1,4 @@
-package APLIKAZIOA;
+
 
 /**
  * Pelikula klasea - Zineko pelikulak irudikatzeko

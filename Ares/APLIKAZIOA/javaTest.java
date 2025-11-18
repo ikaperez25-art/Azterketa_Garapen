@@ -1,4 +1,4 @@
-package APLIKAZIOA;
+
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
@@ -22,6 +22,13 @@ assertEquals("\u001B[32m",koloreak.YELLOW );
 
 
 
+}
+
+public void gelak(){
+
+    @Test
+
+    assertTrue()
 }
 
 }
