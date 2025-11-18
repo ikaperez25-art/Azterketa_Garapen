@@ -1,8 +1,8 @@
 public class EstekakEtaScrumAzalpena {
 
     public static void main(String[] args) throws Exception {
-        System.out.println("Scrum metodologia:");
-        System.out.println("\n Zer da?");
+        System.out.println(koloreak.RED+"Scrum metodologia:"+koloreak.RESET);
+        System.out.println(koloreak.GREEN+"\n Zer da?"+koloreak.RESET);
         System.out.println(
                 "\nScrum metodologia lan egiteko metodologia bat da non Sprint-etan banatzen da denbora eta taldeko pertsona bakoitzak rol bat du.");
         System.out.println(
