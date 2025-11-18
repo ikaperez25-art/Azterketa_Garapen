@@ -23,5 +23,6 @@ assertEquals("\u001B[32m",koloreak.YELLOW );
 
 
 }
+public
 }
 
